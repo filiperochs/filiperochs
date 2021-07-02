@@ -2,7 +2,7 @@
 
 **Software Developer**
 
-- 📚 Currently learning: **_ReactJS, NodeJS, TDD_**
+- 📚 Currently learning: **_ReactJS, NodeJS, TDD, Angular_**
 
 ### How to reach me:
 
