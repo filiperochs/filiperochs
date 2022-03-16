@@ -7,9 +7,8 @@
 ### How to reach me:
 
 [![Email badge](https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipesilva.tmsi@gmail.com?subject=Hi)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/filiperochs)
+<a href="https://linkedin.com/in/filiperochs" target="_blank">![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)</a>
 [![Twitter badge](https://img.shields.io/badge/instagram-black?logo=instagram&style=for-the-badge&logoColor=white)](https://instagram.com/liperocha13)
-
 ---
 
 ### Main technologies:
