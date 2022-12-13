@@ -1,8 +1,8 @@
 # 🔥 Filipe Rocha
 
-**Software Developer**
+**Software Engineer**
 
-- 📚 Currently learning: **_ReactJS, NodeJS, TDD, Angular_**
+- 📚 Currently learning: **_ReactJS, Angular, Javascript_**
 
 ### How to reach me:
 
